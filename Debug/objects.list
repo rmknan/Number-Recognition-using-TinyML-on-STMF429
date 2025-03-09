@@ -1,5 +1,6 @@
 "./Src/debug.o"
 "./Src/main.o"
+"./Src/sine_model.o"
 "./Src/stm32f4xx_it.o"
 "./Src/syscalls.o"
 "./Src/sysmem.o"

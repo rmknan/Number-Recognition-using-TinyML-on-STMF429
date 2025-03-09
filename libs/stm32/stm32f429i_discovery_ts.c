@@ -167,7 +167,7 @@ void BSP_TS_GetState(TS_StateTypeDef* TsState)
     y -= 360;  
     
     /* Y value second correction */
-    yr = y / 11;
+    yr = 320 - y / 11;
     
     /* Return y position value */
     if(yr <= 0)
