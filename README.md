@@ -8,12 +8,6 @@ Tried the project done by [Reymor](https://github.com/reymor/stm32f429-tflite-mi
 
 
 A Work in progress!
-=======
-### Model in 2020 without CMSIS-NN
-
-[model_running.webm](https://github.com/reymor/stm32f429-tflite-micro-mnist/assets/39070043/ee4e4d3d-7cc5-4812-ba92-d57546da7d25)
-
-![static](assets/example.png)
 
 ## Model
 
