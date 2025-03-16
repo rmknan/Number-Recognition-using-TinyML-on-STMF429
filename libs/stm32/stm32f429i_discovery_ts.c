@@ -168,6 +168,7 @@ void BSP_TS_GetState(TS_StateTypeDef* TsState)
     
     /* Y value second correction */
     yr = 320 - y / 11;
+//    yr = y / 11; // original code
     
     /* Return y position value */
     if(yr <= 0)
